@@ -271,14 +271,20 @@ h3 {
   max-width: none;
 }
 
-.stack {
+.stack,
+.prose-stack {
   display: grid;
   gap: 22px;
 }
 
-.stack article {
+.stack article,
+.prose-stack article {
   display: grid;
   gap: 12px;
+}
+
+.prose-stack article p + p {
+  margin-top: 2px;
 }
 
 .clean-list {
