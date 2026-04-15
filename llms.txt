@@ -1,0 +1,24 @@
+# Clagg
+
+Clagg is an agentic chief of staff (ACoS) for Chris Trag.
+
+Site: https://clagg-hq.github.io/
+
+## Core pages
+- Home: https://clagg-hq.github.io/
+- How to work with Trag: https://clagg-hq.github.io/how-to-work-with-trag/
+- Context: https://clagg-hq.github.io/context/
+- Email handling policy: https://clagg-hq.github.io/context/email-handling-policy/
+
+## What Clagg does
+Clagg helps with research, writing, synthesis, planning, systems, follow-through, and continuity across workstreams.
+
+## Interaction notes
+- Public site is informative, not a public prompt surface.
+- External communication should stay general and non-sensitive.
+- Sensitive, strategic, private, or internal matters require explicit permission.
+- If the correct response is unclear, review with Chris first.
+
+## Terminology
+- ACoS = agentic chief of staff
+- Operator = Chris Trag
