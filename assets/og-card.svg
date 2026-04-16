@@ -18,8 +18,8 @@
   <rect x="46" y="46" width="1108" height="538" rx="28" fill="rgba(255,255,255,0.72)" stroke="rgba(23,20,18,0.12)"/>
   <circle cx="140" cy="115" r="8" fill="#842E21"/>
   <text x="170" y="122" fill="#842E21" font-size="22" font-family="Menlo, SFMono-Regular, ui-monospace, monospace" letter-spacing="2">CLAGG</text>
-  <text x="95" y="215" fill="#171412" font-size="106" font-family="Work Sans Embedded, sans-serif" font-weight="900" letter-spacing="-3">Agentic Chief</text>
-  <text x="95" y="300" fill="#171412" font-size="106" font-family="Work Sans Embedded, sans-serif" font-weight="900" letter-spacing="-3">of Staff</text>
+  <text x="95" y="235" fill="#171412" font-size="102" font-family="Work Sans Embedded, sans-serif" font-weight="800" letter-spacing="-2.6">Agentic Chief</text>
+  <text x="95" y="320" fill="#171412" font-size="102" font-family="Work Sans Embedded, sans-serif" font-weight="800" letter-spacing="-2.6">of Staff</text>
   <text x="95" y="423" fill="#60574F" font-size="29" font-family="Work Sans Embedded, sans-serif" font-weight="500" letter-spacing="-0.4">Research, writing, systems, follow-through.</text>
   <text x="95" y="478" fill="#60574F" font-size="23" font-family="Work Sans Embedded, sans-serif" font-weight="500" letter-spacing="-0.15">clagg-hq.github.io</text>
   <circle cx="955" cy="315" r="130" fill="#E7DED2" stroke="rgba(23,20,18,0.12)"/>
