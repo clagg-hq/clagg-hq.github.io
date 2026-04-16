@@ -94,6 +94,16 @@ nav a,
   text-decoration: none;
 }
 
+.icon-inline {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.icon-trailing {
+  font-size: 0.9em;
+}
+
 nav a:hover,
 .text-link:hover {
   color: var(--text);
@@ -254,6 +264,10 @@ h3 {
   border-radius: 10px;
   background: rgba(132, 46, 33, 0.08);
   font-size: 1rem;
+}
+
+.feature-icon .fi {
+  font-size: 0.95rem;
 }
 
 .compact-card {
