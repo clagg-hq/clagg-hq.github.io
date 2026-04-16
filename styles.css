@@ -307,6 +307,36 @@ h3 {
   gap: 8px;
 }
 
+.example-block {
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  padding: 16px 18px;
+  background: rgba(255, 255, 255, 0.72);
+}
+
+.example-label {
+  display: inline-block;
+  margin-bottom: 8px;
+  color: var(--accent);
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.example-block p + p {
+  margin-top: 10px;
+}
+
+.link-list {
+  display: grid;
+  gap: 10px;
+}
+
+.link-list a {
+  width: fit-content;
+}
+
 @media (max-width: 900px) {
   .hero,
   .two-column,
