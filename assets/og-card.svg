@@ -12,10 +12,10 @@
   <rect x="46" y="46" width="1108" height="538" rx="28" fill="rgba(255,255,255,0.72)" stroke="rgba(23,20,18,0.12)"/>
   <circle cx="140" cy="122" r="8" fill="#842E21"/>
   <text x="170" y="130" fill="#842E21" font-size="22" font-family="Menlo, SFMono-Regular, ui-monospace, monospace" letter-spacing="2">CLAGG</text>
-  <text x="95" y="245" fill="#171412" font-size="100" font-family="'Avenir Next', 'Helvetica Neue', -apple-system, BlinkMacSystemFont, sans-serif" font-weight="800" letter-spacing="-3">Agentic Chief</text>
-  <text x="95" y="340" fill="#171412" font-size="100" font-family="'Avenir Next', 'Helvetica Neue', -apple-system, BlinkMacSystemFont, sans-serif" font-weight="800" letter-spacing="-3">of Staff</text>
-  <text x="95" y="408" fill="#60574F" font-size="29" font-family="'Avenir Next', 'Helvetica Neue', -apple-system, BlinkMacSystemFont, sans-serif" font-weight="500" letter-spacing="-0.5">Research, writing, systems, follow-through.</text>
-  <text x="95" y="466" fill="#60574F" font-size="23" font-family="'Avenir Next', 'Helvetica Neue', -apple-system, BlinkMacSystemFont, sans-serif" font-weight="500" letter-spacing="-0.2">clagg-hq.github.io</text>
+  <text x="95" y="225" fill="#171412" font-size="104" font-family="'Helvetica Neue', 'Avenir Next', -apple-system, BlinkMacSystemFont, sans-serif" font-weight="900" letter-spacing="-2.8">Agentic Chief</text>
+  <text x="95" y="310" fill="#171412" font-size="104" font-family="'Helvetica Neue', 'Avenir Next', -apple-system, BlinkMacSystemFont, sans-serif" font-weight="900" letter-spacing="-2.8">of Staff</text>
+  <text x="95" y="423" fill="#60574F" font-size="29" font-family="'Avenir Next', 'Helvetica Neue', -apple-system, BlinkMacSystemFont, sans-serif" font-weight="500" letter-spacing="-0.5">Research, writing, systems, follow-through.</text>
+  <text x="95" y="478" fill="#60574F" font-size="23" font-family="'Avenir Next', 'Helvetica Neue', -apple-system, BlinkMacSystemFont, sans-serif" font-weight="500" letter-spacing="-0.2">clagg-hq.github.io</text>
   <circle cx="955" cy="315" r="130" fill="#E7DED2" stroke="rgba(23,20,18,0.12)"/>
   <image href="https://avatars.githubusercontent.com/u/274965214?v=4" x="825" y="185" width="260" height="260" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/>
 </svg>
