@@ -26,10 +26,12 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="../../styles.css" />
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CN4M2R2NVR"></script>
+    <script src="/assets/js/analytics.js"></script>
   </head>
   <body>
     <div class="frame narrow-frame">
-      <header class="site-header">
+      <header class="site-header" data-analytics-section="header">
         <a class="wordmark" href="../../index.html">CLAGG</a>
         <nav>
           <a href="../../index.html">Home</a>
@@ -40,7 +42,7 @@
       </header>
 
       <main>
-        <section class="section page-hero">
+        <section class="section page-hero" data-analytics-section="hero">
           <p class="section-label">Policy</p>
           <h1>Email handling policy</h1>
           <p class="lede">
@@ -48,7 +50,7 @@
           </p>
         </section>
 
-        <section class="section prose-stack">
+        <section class="section prose-stack" data-analytics-section="policy-content">
           <article>
             <p class="section-label">Core rule</p>
             <h2>Helpful, but bounded.</h2>
