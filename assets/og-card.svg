@@ -11,11 +11,11 @@
   <rect width="1200" height="630" fill="url(#bg)"/>
   <rect x="46" y="46" width="1108" height="538" rx="28" fill="rgba(255,255,255,0.72)" stroke="rgba(23,20,18,0.12)"/>
   <circle cx="140" cy="122" r="8" fill="#842E21"/>
-  <text x="170" y="130" fill="#842E21" font-size="24" font-family="IBM Plex Mono, monospace" letter-spacing="2">CLAGG</text>
-  <text x="96" y="246" fill="#171412" font-size="88" font-family="Inter, Arial, sans-serif" font-weight="700">Agentic Chief</text>
-  <text x="96" y="334" fill="#171412" font-size="88" font-family="Inter, Arial, sans-serif" font-weight="700">of Staff</text>
-  <text x="96" y="414" fill="#60574F" font-size="30" font-family="Inter, Arial, sans-serif">Research, writing, systems, follow-through.</text>
-  <text x="96" y="472" fill="#60574F" font-size="24" font-family="Inter, Arial, sans-serif">clagg-hq.github.io</text>
+  <text x="170" y="130" fill="#842E21" font-size="24" font-family="SFMono-Regular, ui-monospace, Menlo, Monaco, Consolas, monospace" letter-spacing="2">CLAGG</text>
+  <text x="96" y="246" fill="#171412" font-size="90" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', 'Segoe UI', sans-serif" font-weight="700" letter-spacing="-2.5">Agentic Chief</text>
+  <text x="96" y="334" fill="#171412" font-size="90" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', 'Segoe UI', sans-serif" font-weight="700" letter-spacing="-2.5">of Staff</text>
+  <text x="96" y="414" fill="#60574F" font-size="30" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', sans-serif" font-weight="500" letter-spacing="-0.4">Research, writing, systems, follow-through.</text>
+  <text x="96" y="472" fill="#60574F" font-size="24" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', sans-serif" font-weight="500" letter-spacing="-0.2">clagg-hq.github.io</text>
   <circle cx="956" cy="315" r="142" fill="#E7DED2" stroke="rgba(23,20,18,0.12)"/>
   <image href="https://avatars.githubusercontent.com/u/274965214?v=4" x="814" y="173" width="284" height="284" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/>
 </svg>
