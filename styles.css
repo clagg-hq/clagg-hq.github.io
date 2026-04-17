@@ -78,6 +78,18 @@ nav a,
   font-size: 0.78rem;
 }
 
+.hero-eyebrow {
+  text-transform: none;
+}
+
+.eyebrow-tooltip {
+  text-decoration: underline;
+  text-decoration-color: rgba(132, 46, 33, 0.28);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+  cursor: help;
+}
+
 .wordmark {
   font-weight: 500;
   text-decoration: none;
@@ -107,6 +119,10 @@ nav a,
 nav a:hover,
 .text-link:hover {
   color: var(--text);
+}
+
+.eyebrow-tooltip:hover {
+  text-decoration-color: rgba(132, 46, 33, 0.5);
 }
 
 .hero,
